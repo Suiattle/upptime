@@ -11,8 +11,8 @@ sites:
     url: https://seattlegov.zendesk.com/hc/
   - name: Permit and Property Records
     url: https://web.seattle.gov/dpd/edms/
-  - name: SFD Permit and Certification Fees
-    url: https://web7.seattle.gov/sfd/permits/
+  #- name: SFD Permit and Certification Fees
+  #  url: https://web7.seattle.gov/sfd/permits/
   - name: Seattle Animal Shelter Online Licensing
     url: https://www.seattle.gov/animal-shelter/license/online-pet-licensing
   #- name: Test Broken Site
