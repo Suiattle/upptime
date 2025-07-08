@@ -6,14 +6,22 @@ sites:
   - name: City of Seattle Official Website
     url: https://www.seattle.gov
   - name: Seattle Services Portal
-    url: https://services.seattle.gov/Portal/
-  - name: Test Broken Site
-    url: https://invalid.invalid.invalid
-  - name: IPv6 test
-    url: services.seattle.gov
-    port: 443
-    check: "tcp-ping"
-    ipv6: true
+    url: https://services.seattle.gov/portal/
+  - name: Seattle Services Portal Help Center
+    url: https://seattlegov.zendesk.com/hc/
+  - name: Permit and Property Records
+    url: https://web.seattle.gov/dpd/edms/
+  - name: SFD Permit and Certification Fees
+    url: https://web7.seattle.gov/sfd/permits/
+  - name: Seattle Animal Shelter Online Licensing
+    url: https://www.seattle.gov/animal-shelter/license/online-pet-licensing
+  #- name: Test Broken Site
+  #  url: https://invalid.invalid.invalid
+  #- name: IPv6 test
+  #  url: services.seattle.gov
+  #  port: 443
+  #  check: "tcp-ping"
+  #  ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -24,7 +32,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is an open-source uptime monitor."
-  introMessage: This status page uses GitHub Actions, Issues, and Pages.
+  introMessage: This status page is built using GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
