@@ -39,6 +39,8 @@ status-website:
   name: Upptime
   introTitle: "**Upptime** is an open-source uptime monitor."
   introMessage: This status page is built using GitHub Actions, Issues, and Pages.
+  status-website:
+  theme: ocean
   navbar:
     - title: Status
       href: /
