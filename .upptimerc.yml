@@ -11,10 +11,16 @@ sites:
     url: https://seattlegov.zendesk.com/hc/
   #- name: SFD Permit and Certification Fees
   #  url: https://web7.seattle.gov/sfd/permits/
-  - name: Permit and Property Records
+  - name: Search Permit and Property Records
     url: https://web.seattle.gov/dpd/edms/
+  - name: Shaping Seattle Maps
+    url: https://web.seattle.gov/sdci/ShapingSeattle/
+  - name: City of Seattle Vehicle Safety Inspection Database 
+    url: https://web6.seattle.gov/FAS/Vsid
   - name: Seattle Animal Shelter Online Licensing
     url: https://www.seattle.gov/animal-shelter/license/online-pet-licensing
+  - name: Seattle Municipal Court Payments
+    url: https://secure8.i-doxs.net/SeattleSMC/
   #- name: Test Broken Site
   #  url: https://invalid.invalid.invalid
   #- name: IPv6 test
