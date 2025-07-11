@@ -76,19 +76,19 @@
     "url": "https://maps.seattle.gov/sdcipermithistory/",
     "icon": "https://icons.duckduckgo.com/ip3/maps.seattle.gov.ico",
     "slug": "permit-and-site-history-research-tool",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 182,
-    "timeDay": 182,
-    "timeWeek": 182,
-    "timeMonth": 182,
-    "timeYear": 182,
+    "status": "up",
+    "uptime": "95.92%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "95.92%",
+    "uptimeMonth": "95.92%",
+    "uptimeYear": "95.92%",
+    "time": 3681,
+    "timeDay": 3681,
+    "timeWeek": 3681,
+    "timeMonth": 3681,
+    "timeYear": 3681,
     "dailyMinutesDown": {
-      "2025-07-11": 0
+      "2025-07-11": 22
     }
   },
   {
