@@ -11,8 +11,10 @@ sites:
     url: https://seattlegov.zendesk.com/hc/
   #- name: SFD Permit and Certification Fees
   #  url: https://web7.seattle.gov/sfd/permits/
-  - name: Search Permit and Property Records
+  - name: Permit and Property Records Search
     url: https://web.seattle.gov/dpd/edms/
+  - name: Permit & Site History Research Tool 
+    url: https://maps.seattle.gov/sdcipermithistory/
   - name: Shaping Seattle Maps
     url: https://web.seattle.gov/sdci/ShapingSeattle/
   - name: City of Seattle Vehicle Safety Inspection Database 
