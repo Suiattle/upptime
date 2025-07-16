@@ -4,9 +4,9 @@
     "url": "https://www.seattle.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.seattle.gov.ico",
     "slug": "city-of-seattle-official-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 472,
     "timeMonth": 773,
     "timeYear": 773,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-16": 0
+    }
   },
   {
     "name": "Seattle Services Portal",
@@ -77,11 +79,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/maps.seattle.gov.ico",
     "slug": "permit-and-site-history-research-tool",
     "status": "up",
-    "uptime": "99.70%",
+    "uptime": "99.73%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 1569,
     "timeDay": 356,
     "timeWeek": 1569,
@@ -132,9 +134,9 @@
     "url": "https://www.seattle.gov/animal-shelter/license/online-pet-licensing",
     "icon": "https://icons.duckduckgo.com/ip3/www.seattle.gov.ico",
     "slug": "seattle-animal-shelter-online-licensing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -143,7 +145,9 @@
     "timeWeek": 670,
     "timeMonth": 596,
     "timeYear": 596,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-16": 0
+    }
   },
   {
     "name": "Seattle Municipal Court Payments",
