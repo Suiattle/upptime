@@ -24,19 +24,19 @@
     "url": "https://services.seattle.gov/portal/",
     "icon": "https://icons.duckduckgo.com/ip3/services.seattle.gov.ico",
     "slug": "seattle-services-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 393,
-    "timeDay": 401,
-    "timeWeek": 379,
+    "timeDay": 409,
+    "timeWeek": 384,
     "timeMonth": 393,
     "timeYear": 393,
     "dailyMinutesDown": {
-      "2025-07-29": 0
+      "2025-07-29": 21
     }
   },
   {
