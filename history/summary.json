@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/services.seattle.gov.ico",
     "slug": "seattle-services-portal",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.81%",
     "time": 384,
     "timeDay": 368,
     "timeWeek": 383,
@@ -82,9 +82,9 @@
     "url": "https://maps.seattle.gov/sdcipermithistory/",
     "icon": "https://icons.duckduckgo.com/ip3/maps.seattle.gov.ico",
     "slug": "permit-and-site-history-research-tool",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -94,6 +94,7 @@
     "timeMonth": 275,
     "timeYear": 545,
     "dailyMinutesDown": {
+      "2025-08-15": 0,
       "2025-07-11": 22
     }
   },
