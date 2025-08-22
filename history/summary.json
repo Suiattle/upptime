@@ -102,9 +102,9 @@
     "url": "https://web.seattle.gov/sdci/ShapingSeattle/",
     "icon": "https://icons.duckduckgo.com/ip3/web.seattle.gov.ico",
     "slug": "shaping-seattle-maps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -113,7 +113,9 @@
     "timeWeek": 59,
     "timeMonth": 71,
     "timeYear": 73,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-22": 0
+    }
   },
   {
     "name": "City of Seattle Vehicle Safety Inspection Database",
