@@ -140,9 +140,9 @@
     "url": "https://www.seattle.gov/animal-shelter/license/online-pet-licensing",
     "icon": "https://icons.duckduckgo.com/ip3/www.seattle.gov.ico",
     "slug": "seattle-animal-shelter-online-licensing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.90%",
@@ -152,6 +152,7 @@
     "timeMonth": 1006,
     "timeYear": 1016,
     "dailyMinutesDown": {
+      "2025-08-24": 0,
       "2025-08-04": 41,
       "2025-07-20": 29
     }
@@ -161,17 +162,19 @@
     "url": "https://secure8.i-doxs.net/SeattleSMC/",
     "icon": "https://icons.duckduckgo.com/ip3/secure8.i-doxs.net.ico",
     "slug": "seattle-municipal-court-payments",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 515,
-    "timeWeek": 486,
-    "timeMonth": 445,
-    "timeYear": 487,
-    "dailyMinutesDown": {}
+    "time": 488,
+    "timeDay": 536,
+    "timeWeek": 495,
+    "timeMonth": 449,
+    "timeYear": 488,
+    "dailyMinutesDown": {
+      "2025-08-24": 0
+    }
   }
 ]
