@@ -162,19 +162,19 @@
     "url": "https://secure8.i-doxs.net/SeattleSMC/",
     "icon": "https://icons.duckduckgo.com/ip3/secure8.i-doxs.net.ico",
     "slug": "seattle-municipal-court-payments",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.96%",
-    "time": 488,
-    "timeDay": 536,
-    "timeWeek": 495,
-    "timeMonth": 449,
-    "timeYear": 488,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "94.01%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.87%",
+    "time": 503,
+    "timeDay": 783,
+    "timeWeek": 582,
+    "timeMonth": 474,
+    "timeYear": 503,
     "dailyMinutesDown": {
-      "2025-08-24": 29
+      "2025-08-24": 86
     }
   }
 ]
