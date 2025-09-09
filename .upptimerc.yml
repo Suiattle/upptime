@@ -23,6 +23,10 @@ sites:
     url: https://www.seattle.gov/animal-shelter/license/online-pet-licensing
   - name: Seattle Municipal Court Payments
     url: https://secure8.i-doxs.net/SeattleSMC/
+  - name: Seattle Utilities ePortal
+    url: https://myutilities.seattle.gov/eportal/
+  - name: Seattle Utility Services One-time Payment
+    url: https://utilities-self-service.ebill.seattle.gov/SeattleUtilities/OneTimeAdd.aspx
   #- name: Test Broken Site
   #  url: https://invalid.invalid.invalid
   #- name: IPv6 test
