@@ -84,18 +84,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/maps.seattle.gov.ico",
     "slug": "permit-and-site-history-research-tool",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.98%",
     "time": 530,
     "timeDay": 2970,
     "timeWeek": 1086,
     "timeMonth": 482,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2025-09-12": 12,
       "2025-07-11": 22
     }
   },
@@ -104,9 +103,9 @@
     "url": "https://web.seattle.gov/sdci/ShapingSeattle/",
     "icon": "https://icons.duckduckgo.com/ip3/web.seattle.gov.ico",
     "slug": "shaping-seattle-maps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.93%",
@@ -116,6 +115,7 @@
     "timeMonth": 65,
     "timeYear": 72,
     "dailyMinutesDown": {
+      "2025-09-12": 0,
       "2025-08-22": 63
     }
   },
