@@ -90,7 +90,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 526,
-    "timeDay": 3004,
+    "timeDay": 230,
     "timeWeek": 1075,
     "timeMonth": 485,
     "timeYear": 526,
@@ -105,12 +105,12 @@
     "slug": "shaping-seattle-maps",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.85%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.92%",
     "time": 72,
-    "timeDay": 71,
+    "timeDay": 54,
     "timeWeek": 65,
     "timeMonth": 66,
     "timeYear": 72,
@@ -203,9 +203,9 @@
     "url": "https://utilities-self-service.ebill.seattle.gov/SeattleUtilities/OneTimeAdd.aspx",
     "icon": "https://icons.duckduckgo.com/ip3/utilities-self-service.ebill.seattle.gov.ico",
     "slug": "seattle-utility-services-one-time-payment",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -214,6 +214,8 @@
     "timeWeek": 255,
     "timeMonth": 255,
     "timeYear": 255,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-13": 0
+    }
   }
 ]
