@@ -1,7 +1,7 @@
 url: https://services.seattle.gov/portal/
-status: down
-code: 503
-responseTime: 257
-lastUpdated: 2025-10-15T08:00:47.746Z
+status: up
+code: 200
+responseTime: 259
+lastUpdated: 2025-10-15T08:33:25.467Z
 startTime: 2025-07-07T22:45:11.258Z
 generator: Upptime <https://github.com/upptime/upptime>
