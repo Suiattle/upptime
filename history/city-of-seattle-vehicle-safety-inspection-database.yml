@@ -1,7 +1,7 @@
 url: https://web6.seattle.gov/FAS/Vsid
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-10-19T10:44:25.840Z
+status: up
+code: 200
+responseTime: 460
+lastUpdated: 2025-10-19T10:56:05.351Z
 startTime: 2025-07-09T18:18:33.352Z
 generator: Upptime <https://github.com/upptime/upptime>
