@@ -1,7 +1,7 @@
 url: https://utilities-self-service.ebill.seattle.gov/SeattleUtilities/OneTimeAdd.aspx
-status: down
-code: 503
-responseTime: 62
-lastUpdated: 2025-10-20T20:32:48.818Z
+status: up
+code: 200
+responseTime: 437
+lastUpdated: 2025-10-20T20:44:41.483Z
 startTime: 2025-09-09T23:21:49.039Z
 generator: Upptime <https://github.com/upptime/upptime>
