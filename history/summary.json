@@ -4,16 +4,16 @@
     "url": "https://www.seattle.gov",
     "icon": "https://icons.duckduckgo.com/ip3/www.seattle.gov.ico",
     "slug": "city-of-seattle-official-website",
-    "status": "up",
-    "uptime": "97.61%",
-    "uptimeDay": "64.36%",
+    "status": "down",
+    "uptime": "97.62%",
+    "uptimeDay": "66.78%",
     "uptimeWeek": "62.78%",
-    "uptimeMonth": "91.10%",
-    "uptimeYear": "97.61%",
+    "uptimeMonth": "91.16%",
+    "uptimeYear": "97.62%",
     "time": 387,
-    "timeDay": 247,
+    "timeDay": 248,
     "timeWeek": 336,
-    "timeMonth": 373,
+    "timeMonth": 372,
     "timeYear": 387,
     "dailyMinutesDown": {
       "2025-10-29": 84,
@@ -24,7 +24,7 @@
       "2025-10-24": 585,
       "2025-10-23": 616,
       "2025-10-22": 372,
-      "2025-10-21": 146
+      "2025-10-21": 122
     }
   },
   {
@@ -161,17 +161,17 @@
     "url": "https://www.seattle.gov/animal-shelter/license/online-pet-licensing",
     "icon": "https://icons.duckduckgo.com/ip3/www.seattle.gov.ico",
     "slug": "seattle-animal-shelter-online-licensing",
-    "status": "up",
-    "uptime": "97.59%",
-    "uptimeDay": "64.25%",
-    "uptimeWeek": "62.75%",
-    "uptimeMonth": "91.09%",
-    "uptimeYear": "97.59%",
-    "time": 459,
-    "timeDay": 335,
-    "timeWeek": 355,
+    "status": "down",
+    "uptime": "97.60%",
+    "uptimeDay": "66.67%",
+    "uptimeWeek": "62.74%",
+    "uptimeMonth": "91.15%",
+    "uptimeYear": "97.60%",
+    "time": 458,
+    "timeDay": 334,
+    "timeWeek": 354,
     "timeMonth": 414,
-    "timeYear": 459,
+    "timeYear": 458,
     "dailyMinutesDown": {
       "2025-10-29": 84,
       "2025-10-28": 429,
@@ -181,7 +181,7 @@
       "2025-10-24": 586,
       "2025-10-23": 616,
       "2025-10-22": 372,
-      "2025-10-21": 145
+      "2025-10-21": 121
     }
   },
   {
