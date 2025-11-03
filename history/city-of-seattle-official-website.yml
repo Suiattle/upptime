@@ -1,7 +1,7 @@
 url: https://www.seattle.gov
-status: down
-code: 403
-responseTime: 101
-lastUpdated: 2025-11-02T23:57:44.883Z
+status: up
+code: 200
+responseTime: 583
+lastUpdated: 2025-11-03T04:04:55.402Z
 startTime: 2025-07-07T22:45:09.127Z
 generator: Upptime <https://github.com/upptime/upptime>
