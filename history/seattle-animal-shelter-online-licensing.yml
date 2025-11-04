@@ -1,7 +1,7 @@
 url: https://www.seattle.gov/animal-shelter/license/online-pet-licensing
-status: up
-code: 200
-responseTime: 667
-lastUpdated: 2025-11-03T23:53:07.269Z
+status: down
+code: 403
+responseTime: 58
+lastUpdated: 2025-11-04T03:45:25.787Z
 startTime: 2025-07-08T19:29:35.138Z
 generator: Upptime <https://github.com/upptime/upptime>
