@@ -1,11 +1,13 @@
 # Change these first
 owner: Suiattle # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-user-agent: SEA-GOV
+user-agent: Upptime-Monitor-App
 
 sites:
   - name: City of Seattle Official Website
     url: https://www.seattle.gov
+    headers:
+      - "User-Agent: uptime/monitor"
   - name: Seattle Services Portal
     url: https://services.seattle.gov/portal/
   - name: Seattle Services Portal Help Center
@@ -21,7 +23,9 @@ sites:
   - name: City of Seattle Vehicle Safety Inspection Database 
     url: https://web6.seattle.gov/FAS/Vsid
   - name: Seattle Animal Shelter Online Licensing
-    url: https://www.seattle.gov/animal-shelter/license/online-pet-licensing
+    url: https://onlinelicensing.petpoint.com/OnlineLicensing/
+    port: 443
+    check: "tcp-ping"
   - name: Seattle Municipal Court Payments
     url: https://secure8.i-doxs.net/SeattleSMC/
   - name: Seattle Utilities ePortal
