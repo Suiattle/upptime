@@ -23,8 +23,6 @@ sites:
     url: https://web6.seattle.gov/FAS/Vsid
   - name: Seattle Animal Shelter Online Licensing
     url: https://onlinelicensing.petpoint.com/OnlineLicensing/
-    headers:
-      - "User-Agent: upptime/monitor"
   - name: Seattle Municipal Court Payments
     url: https://secure8.i-doxs.net/SeattleSMC/
   - name: Seattle Utilities ePortal
