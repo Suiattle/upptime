@@ -5,6 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: City of Seattle Official Website
     url: https://www.seattle.gov
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
     headers:
       - "User-Agent: upptime/monitor"
   - name: Seattle Services Portal
